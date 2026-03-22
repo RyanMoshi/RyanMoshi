@@ -224,13 +224,31 @@ I write code, design systems, and build teams. Everything I ship is driven by th
 
 ### Activity
 
+###
+
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/RyanMoshi/RyanMoshi/output/snake.svg" alt="Snake animation" />
+
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RyanMoshi/RyanMoshi/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RyanMoshi/RyanMoshi/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RyanMoshi/RyanMoshi/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RyanMoshi/RyanMoshi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RyanMoshi/RyanMoshi/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RyanMoshi/RyanMoshi/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 ---
 
