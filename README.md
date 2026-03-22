@@ -28,47 +28,58 @@ I write code, design systems, and build teams. Everything I ship is driven by th
 
 <img src="https://img.shields.io/badge/●-COMPANIES_I'VE_BUILT-58a6ff?style=for-the-badge" />
 
+<br>
+
+<table>
+<tr><td align="center" width="100%">
+<br>
+<img src="https://raw.githubusercontent.com/RyanMoshi/RyanMoshi/main/retrosoft%20white.png" width="280" alt="Retrosoft Inc." />
 <br><br>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/RyanMoshi/RyanMoshi/main/retrosoft%20white.png" height="90" alt="Retrosoft Inc." />
-</div>
-
-<div align="center">
-
-**Retrosoft Inc.** — Custom software, intelligent automation, web & mobile development
-
-[🔗 Visit Site](https://retrosoftinc.vercel.app/) &nbsp;&nbsp; [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/retrosoft.inc/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/retrosoftinc)
-
-</div>
-
+<b>Retrosoft Inc.</b>
 <br>
+Custom software, intelligent automation, web & mobile development
+<br><br>
+<a href="https://retrosoftinc.vercel.app/">🔗 Visit Site</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/retrosoft.inc/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+<a href="https://www.linkedin.com/company/retrosoftinc"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<br><br>
+</td></tr>
+</table>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/RyanMoshi/RyanMoshi/main/retroworld%20white.png" height="90" alt="The RetroWorld Studios Inc." />
-</div>
-
-<div align="center">
-
-**The RetroWorld Studios Inc.** — Strategic branding, creative design & marketing solutions
-
-[🔗 Visit Site](https://theretroworldstudiosinc.vercel.app/) &nbsp;&nbsp; [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/theretroworldstudios.inc/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/theretroworldstudios)
-
-</div>
-
+<table>
+<tr><td align="center" width="100%">
 <br>
+<img src="https://raw.githubusercontent.com/RyanMoshi/RyanMoshi/main/retroworld%20white.png" width="280" alt="The RetroWorld Studios Inc." />
+<br><br>
+<b>The RetroWorld Studios Inc.</b>
+<br>
+Strategic branding, creative design & marketing solutions
+<br><br>
+<a href="https://theretroworldstudiosinc.vercel.app/">🔗 Visit Site</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/theretroworldstudios.inc/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+<a href="https://www.linkedin.com/company/theretroworldstudios"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<br><br>
+</td></tr>
+</table>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/RyanMoshi/RyanMoshi/main/DropEx%20white%20logo%20no%20bg.png" height="90" alt="DropEx Logistics" />
-</div>
-
-<div align="center">
-
-**DropEx Logistics** — Logistics & delivery infrastructure
-
-[🔗 Visit Site](https://dropexlogistics.com) &nbsp;&nbsp; [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/dropexlogistics/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/dropexlogistics)
-
-</div>
+<table>
+<tr><td align="center" width="100%">
+<br>
+<img src="https://raw.githubusercontent.com/RyanMoshi/RyanMoshi/main/DropEx%20white%20logo%20no%20bg.png" width="280" alt="DropEx Logistics" />
+<br><br>
+<b>DropEx Logistics</b>
+<br>
+Logistics & delivery infrastructure
+<br><br>
+<a href="https://dropexlogistics.com">🔗 Visit Site</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/dropexlogistics/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+<a href="https://www.linkedin.com/company/dropexlogistics"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<br><br>
+</td></tr>
+</table>
 
 ---
 
