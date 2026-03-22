@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/RyanMoshi/RyanMoshi/main/ezgif.com-effects.gif" height="200" />
 
-# 👋 Hey, I'm Ryan Moshi
+# Hey, I'm Ryan Moshi
 
 ### Chief Technology & Brand Strategist
 
@@ -18,15 +18,19 @@
 
 ---
 
-### 🧠 About
+<img src="https://img.shields.io/badge/●-ABOUT-58a6ff?style=for-the-badge" />
+
+<img align="right" height="180" src="https://raw.githubusercontent.com/RyanMoshi/RyanMoshi/main/ezgif.com-effects.gif" />
 
 Founder and technologist building at the intersection of brand strategy and software engineering. I started fixing laptops in East Africa in 2018 — today I lead three companies delivering digital solutions, branding, and logistics across Africa and beyond.
 
 I write code, design systems, and build teams. Everything I ship is driven by the same principle: **technology should solve real problems for real people.**
 
+<br clear="both">
+
 ---
 
-### 🏢 Companies I've Built
+<img src="https://img.shields.io/badge/●-COMPANIES_I'VE_BUILT-58a6ff?style=for-the-badge" />
 
 <table>
 <tr>
@@ -71,7 +75,7 @@ Logistics & delivery infrastructure
 
 ---
 
-### ⚡ Tech Stack
+<img src="https://img.shields.io/badge/●-TECH_STACK-58a6ff?style=for-the-badge" />
 
 <div align="center">
 
@@ -133,11 +137,11 @@ Logistics & delivery infrastructure
 
 ---
 
-### 📊 GitHub Stats
+<img src="https://img.shields.io/badge/●-GITHUB_STATS-58a6ff?style=for-the-badge" />
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RyanMoshi&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9" height="170" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=RyanMoshi&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9" height="170" alt="stats graph" />
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RyanMoshi&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9" height="170" alt="languages graph" />
 
@@ -149,7 +153,7 @@ Logistics & delivery infrastructure
 
 ---
 
-### 🐍 Contribution Activity
+<img src="https://img.shields.io/badge/●-CONTRIBUTION_ACTIVITY-58a6ff?style=for-the-badge" />
 
 <br>
 
@@ -165,7 +169,7 @@ Logistics & delivery infrastructure
 
 ---
 
-### 🤝 Let's Connect
+<img src="https://img.shields.io/badge/●-LET'S_CONNECT-58a6ff?style=for-the-badge" />
 
 <div align="center">
 
@@ -187,7 +191,7 @@ Logistics & delivery infrastructure
 
 <div align="center">
 
-### 🌍 Born in Africa. Built for the World.
+### Born in Africa. Built for the World. 🌍
 
 *Turning ideas into products since 2018.*
 
