@@ -20,7 +20,6 @@
 
 <img src="https://img.shields.io/badge/●-ABOUT-58a6ff?style=for-the-badge" />
 
-<img align="right" height="180" src="https://raw.githubusercontent.com/RyanMoshi/RyanMoshi/main/ezgif.com-effects.gif" />
 
 Founder and technologist building at the intersection of brand strategy and software engineering. I started fixing laptops in East Africa in 2018 — today I lead three companies delivering digital solutions, branding, and logistics across Africa and beyond.
 
