@@ -18,7 +18,7 @@ Building Brands. Engineering Solutions. Leading Innovation.
 
 ### About
 
-<img align="right" height="150" src="https://myoctocat.com/assets/images/octocats/octocat-16.png" />
+<img align="right" height="150" src="https://raw.githubusercontent.com/RyanMoshi/RyanMoshi/main/ezgif.com-effects.gif" />
 
 Founder and technologist building at the intersection of brand strategy and software engineering. I started fixing laptops in East Africa in 2018 — today I lead three companies delivering digital solutions, branding, and logistics across Africa and beyond.
 
@@ -233,16 +233,6 @@ I write code, design systems, and build teams. Everything I ship is driven by th
 <img src="https://raw.githubusercontent.com/RyanMoshi/RyanMoshi/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RyanMoshi/RyanMoshi/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RyanMoshi/RyanMoshi/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RyanMoshi/RyanMoshi/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RyanMoshi/RyanMoshi/output/pacman-contribution-graph-dark.svg">
