@@ -20,64 +20,55 @@
 
 <img src="https://img.shields.io/badge/●-ABOUT-58a6ff?style=for-the-badge" />
 
-<img align="right" height="180" src="https://raw.githubusercontent.com/RyanMoshi/RyanMoshi/main/ezgif.com-effects.gif" />
-
 Founder and technologist building at the intersection of brand strategy and software engineering. I started fixing laptops in East Africa in 2018 — today I lead three companies delivering digital solutions, branding, and logistics across Africa and beyond.
 
 I write code, design systems, and build teams. Everything I ship is driven by the same principle: **technology should solve real problems for real people.**
-
-<br clear="both">
 
 ---
 
 <img src="https://img.shields.io/badge/●-COMPANIES_I'VE_BUILT-58a6ff?style=for-the-badge" />
 
-<table>
-<tr>
-<td align="center" width="33%">
+<br><br>
 
-<img src="https://raw.githubusercontent.com/RyanMoshi/RyanMoshi/main/retrosoft%20white.png" height="80" alt="Retrosoft Inc." />
+<div align="center">
+<img src="https://raw.githubusercontent.com/RyanMoshi/RyanMoshi/main/retrosoft%20white.png" height="90" alt="Retrosoft Inc." />
+</div>
 
-**Retrosoft Inc.**
+<div align="center">
 
-Custom software, automation & development
+**Retrosoft Inc.** — Custom software, intelligent automation, web & mobile development
 
-[🔗 Visit Site](https://retrosoftinc.vercel.app/)
+[🔗 Visit Site](https://retrosoftinc.vercel.app/) &nbsp;&nbsp; [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/retrosoft.inc/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/retrosoftinc)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/retrosoft.inc/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/retrosoftinc)
+</div>
 
-</td>
-<td align="center" width="33%">
+<br>
 
-<img src="https://raw.githubusercontent.com/RyanMoshi/RyanMoshi/main/retroworld%20white.png" height="80" alt="The RetroWorld Studios Inc." />
+<div align="center">
+<img src="https://raw.githubusercontent.com/RyanMoshi/RyanMoshi/main/retroworld%20white.png" height="90" alt="The RetroWorld Studios Inc." />
+</div>
 
-**The RetroWorld Studios Inc.**
+<div align="center">
 
-Branding, creative design & marketing
+**The RetroWorld Studios Inc.** — Strategic branding, creative design & marketing solutions
 
-[🔗 Visit Site](https://theretroworldstudiosinc.vercel.app/)
+[🔗 Visit Site](https://theretroworldstudiosinc.vercel.app/) &nbsp;&nbsp; [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/theretroworldstudios.inc/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/theretroworldstudios)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/theretroworldstudios.inc/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/theretroworldstudios)
+</div>
 
-</td>
-<td align="center" width="33%">
+<br>
 
-<img src="https://raw.githubusercontent.com/RyanMoshi/RyanMoshi/main/DropEx%20white%20logo%20no%20bg.png" height="80" alt="DropEx Logistics" />
+<div align="center">
+<img src="https://raw.githubusercontent.com/RyanMoshi/RyanMoshi/main/DropEx%20white%20logo%20no%20bg.png" height="90" alt="DropEx Logistics" />
+</div>
 
-**DropEx Logistics**
+<div align="center">
 
-Logistics & delivery infrastructure
+**DropEx Logistics** — Logistics & delivery infrastructure
 
-[🔗 Visit Site](https://dropexlogistics.com)
+[🔗 Visit Site](https://dropexlogistics.com) &nbsp;&nbsp; [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/dropexlogistics/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/dropexlogistics)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/dropexlogistics/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/dropexlogistics)
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -163,10 +154,14 @@ Logistics & delivery infrastructure
 
 <br>
 
+<img src="https://raw.githubusercontent.com/RyanMoshi/RyanMoshi/output/snake.svg" alt="Snake animation" />
+
+###
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RyanMoshi/RyanMoshi/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RyanMoshi/RyanMoshi/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/RyanMoshi/RyanMoshi/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RyanMoshi/RyanMoshi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RyanMoshi/RyanMoshi/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RyanMoshi/RyanMoshi/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
