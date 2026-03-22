@@ -20,6 +20,7 @@
 
 <img src="https://img.shields.io/badge/●-ABOUT-58a6ff?style=for-the-badge" />
 
+<img align="right" height="180" src="https://raw.githubusercontent.com/RyanMoshi/RyanMoshi/main/ezgif.com-effects.gif" />
 
 Founder and technologist building at the intersection of brand strategy and software engineering. I started fixing laptops in East Africa in 2018 — today I lead three companies delivering digital solutions, branding, and logistics across Africa and beyond.
 
@@ -35,6 +36,8 @@ I write code, design systems, and build teams. Everything I ship is driven by th
 <tr>
 <td align="center" width="33%">
 
+<img src="https://raw.githubusercontent.com/RyanMoshi/RyanMoshi/main/retrosoft%20white.png" height="80" alt="Retrosoft Inc." />
+
 **Retrosoft Inc.**
 
 Custom software, automation & development
@@ -47,6 +50,8 @@ Custom software, automation & development
 </td>
 <td align="center" width="33%">
 
+<img src="https://raw.githubusercontent.com/RyanMoshi/RyanMoshi/main/retroworld%20white.png" height="80" alt="The RetroWorld Studios Inc." />
+
 **The RetroWorld Studios Inc.**
 
 Branding, creative design & marketing
@@ -58,6 +63,8 @@ Branding, creative design & marketing
 
 </td>
 <td align="center" width="33%">
+
+<img src="https://raw.githubusercontent.com/RyanMoshi/RyanMoshi/main/DropEx%20white%20logo%20no%20bg.png" height="80" alt="DropEx Logistics" />
 
 **DropEx Logistics**
 
@@ -156,14 +163,10 @@ Logistics & delivery infrastructure
 
 <br>
 
-<img src="https://raw.githubusercontent.com/RyanMoshi/RyanMoshi/output/snake.svg" alt="Snake animation" />
-
-###
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RyanMoshi/RyanMoshi/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RyanMoshi/RyanMoshi/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RyanMoshi/RyanMoshi/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RyanMoshi/RyanMoshi/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RyanMoshi/RyanMoshi/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/RyanMoshi/RyanMoshi/output/github-snake.svg" />
 </picture>
 
 ---
